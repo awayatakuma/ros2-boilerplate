@@ -1,0 +1,37 @@
+{
+    "cmake.configureOnOpen": false,
+    "C_Cpp.clang_format_style": "Google",
+    "editor.formatOnSave": true,
+    "editor.formatOnType": true,
+    "[cpp]": {
+        "editor.tabSize": 2,
+    },
+    "C_Cpp.intelliSenseEngine": "default",
+    "files.associations": {
+        "*.ipp": "cpp",
+        "array": "cpp",
+        "atomic": "cpp",
+        "complex": "cpp",
+        "any": "cpp",
+        "chrono": "cpp",
+        "ratio": "cpp",
+        "string_view": "cpp",
+        "system_error": "cpp",
+        "type_traits": "cpp",
+        "fstream": "cpp",
+        "functional": "cpp",
+        "istream": "cpp",
+        "ostream": "cpp",
+        "sstream": "cpp",
+        "streambuf": "cpp",
+        "valarray": "cpp",
+        "iosfwd": "cpp",
+        "cstdio": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "/usr/bin/gcc",
+    "ros.distro": "foxy",
+    "C_Cpp.default.browse.path": [
+        "/opt/ros/foxy/include/",
+    ],
+
+}
